@@ -1,0 +1,131 @@
+The following tournament has 100 strategy combinations, with a spy possibility of 10%, while the leader will always change his choice.
+It will be run on 8 threads.
+
+File 0 is Strategies\0.txt
+File 1 is Strategies\1.txt
+File 2 is Strategies\2.txt
+File 3 is Strategies\3.txt
+File 4 is Strategies\4.txt
+File 5 is Strategies\5.txt
+File 6 is Strategies\6.txt
+File 7 is Strategies\7.txt
+File 8 is Strategies\8.txt
+File 9 is Strategies\9.txt
+
+The best gang combination is 45559
+
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 499.17 years spent in prison.
+Combination 35915 won 98/100 times and tied 0/100 times, with an average of 497.995 years spent in prison.
+Combination 39925 won 98/100 times and tied 0/100 times, with an average of 498.185 years spent in prison.
+Combination 33059 won 98/100 times and tied 0/100 times, with an average of 498.345 years spent in prison.
+Combination 16955 won 95/100 times and tied 0/100 times, with an average of 494.365 years spent in prison.
+Combination 95372 won 94/100 times and tied 0/100 times, with an average of 494.135 years spent in prison.
+Combination 97459 won 93/100 times and tied 0/100 times, with an average of 494.515 years spent in prison.
+Combination 93045 won 92/100 times and tied 0/100 times, with an average of 493.835 years spent in prison.
+Combination 56139 won 92/100 times and tied 0/100 times, with an average of 495.23 years spent in prison.
+Combination 72523 won 83/100 times and tied 0/100 times, with an average of 497.81 years spent in prison.
+Combination 57031 won 81/100 times and tied 2/100 times, with an average of 499.185 years spent in prison.
+Combination 38554 won 81/100 times and tied 1/100 times, with an average of 491 years spent in prison.
+Combination 10329 won 81/100 times and tied 0/100 times, with an average of 497.75 years spent in prison.
+Combination 73043 won 81/100 times and tied 0/100 times, with an average of 498.31 years spent in prison.
+Combination 13209 won 79/100 times and tied 2/100 times, with an average of 500.015 years spent in prison.
+Combination 84339 won 79/100 times and tied 1/100 times, with an average of 491.315 years spent in prison.
+Combination 10596 won 79/100 times and tied 1/100 times, with an average of 500.96 years spent in prison.
+Combination 49304 won 78/100 times and tied 0/100 times, with an average of 499.46 years spent in prison.
+Combination 86335 won 77/100 times and tied 2/100 times, with an average of 490.17 years spent in prison.
+Combination 12433 won 77/100 times and tied 1/100 times, with an average of 499.015 years spent in prison.
+Combination 52657 won 77/100 times and tied 1/100 times, with an average of 500.92 years spent in prison.
+Combination 65425 won 77/100 times and tied 0/100 times, with an average of 499.475 years spent in prison.
+Combination 39770 won 76/100 times and tied 1/100 times, with an average of 500.985 years spent in prison.
+Combination 15855 won 76/100 times and tied 0/100 times, with an average of 491.435 years spent in prison.
+Combination 91524 won 76/100 times and tied 0/100 times, with an average of 498.965 years spent in prison.
+Combination 01337 won 75/100 times and tied 1/100 times, with an average of 500.075 years spent in prison.
+Combination 06235 won 74/100 times and tied 1/100 times, with an average of 498.52 years spent in prison.
+Combination 45254 won 74/100 times and tied 1/100 times, with an average of 499.5 years spent in prison.
+Combination 90304 won 74/100 times and tied 0/100 times, with an average of 499.23 years spent in prison.
+Combination 99614 won 73/100 times and tied 1/100 times, with an average of 501.45 years spent in prison.
+Combination 40350 won 73/100 times and tied 0/100 times, with an average of 498.775 years spent in prison.
+Combination 95172 won 73/100 times and tied 0/100 times, with an average of 500.25 years spent in prison.
+Combination 05500 won 73/100 times and tied 0/100 times, with an average of 500.545 years spent in prison.
+Combination 90794 won 73/100 times and tied 0/100 times, with an average of 500.85 years spent in prison.
+Combination 55110 won 72/100 times and tied 1/100 times, with an average of 502.335 years spent in prison.
+Combination 20360 won 60/100 times and tied 1/100 times, with an average of 508.905 years spent in prison.
+Combination 01463 won 57/100 times and tied 0/100 times, with an average of 509.625 years spent in prison.
+Combination 53728 won 56/100 times and tied 0/100 times, with an average of 502.475 years spent in prison.
+Combination 75185 won 55/100 times and tied 1/100 times, with an average of 503.065 years spent in prison.
+Combination 22341 won 55/100 times and tied 1/100 times, with an average of 508.61 years spent in prison.
+Combination 57262 won 55/100 times and tied 1/100 times, with an average of 510.035 years spent in prison.
+Combination 58015 won 55/100 times and tied 0/100 times, with an average of 503.755 years spent in prison.
+Combination 97766 won 55/100 times and tied 0/100 times, with an average of 508.91 years spent in prison.
+Combination 69823 won 54/100 times and tied 0/100 times, with an average of 505.63 years spent in prison.
+Combination 52221 won 54/100 times and tied 0/100 times, with an average of 510.08 years spent in prison.
+Combination 17307 won 54/100 times and tied 0/100 times, with an average of 510.225 years spent in prison.
+Combination 05476 won 53/100 times and tied 0/100 times, with an average of 509.075 years spent in prison.
+Combination 67405 won 53/100 times and tied 0/100 times, with an average of 512.07 years spent in prison.
+Combination 23402 won 52/100 times and tied 0/100 times, with an average of 510.87 years spent in prison.
+Combination 03477 won 51/100 times and tied 1/100 times, with an average of 510.35 years spent in prison.
+Combination 54122 won 51/100 times and tied 1/100 times, with an average of 510.36 years spent in prison.
+Combination 71219 won 51/100 times and tied 1/100 times, with an average of 511.555 years spent in prison.
+Combination 37661 won 51/100 times and tied 0/100 times, with an average of 510.485 years spent in prison.
+Combination 73412 won 50/100 times and tied 0/100 times, with an average of 509.6 years spent in prison.
+Combination 03147 won 50/100 times and tied 0/100 times, with an average of 511.21 years spent in prison.
+Combination 94207 won 50/100 times and tied 0/100 times, with an average of 511.59 years spent in prison.
+Combination 02119 won 49/100 times and tied 1/100 times, with an average of 511.095 years spent in prison.
+Combination 54089 won 48/100 times and tied 0/100 times, with an average of 505.09 years spent in prison.
+Combination 26302 won 48/100 times and tied 0/100 times, with an average of 511.065 years spent in prison.
+Combination 66725 won 48/100 times and tied 0/100 times, with an average of 511.115 years spent in prison.
+Combination 42292 won 48/100 times and tied 0/100 times, with an average of 511.86 years spent in prison.
+Combination 08302 won 34/100 times and tied 0/100 times, with an average of 520.165 years spent in prison.
+Combination 47040 won 31/100 times and tied 0/100 times, with an average of 525.33 years spent in prison.
+Combination 28297 won 30/100 times and tied 1/100 times, with an average of 522.41 years spent in prison.
+Combination 38722 won 30/100 times and tied 0/100 times, with an average of 520.33 years spent in prison.
+Combination 27461 won 30/100 times and tied 0/100 times, with an average of 525.805 years spent in prison.
+Combination 94286 won 29/100 times and tied 1/100 times, with an average of 523.34 years spent in prison.
+Combination 85689 won 29/100 times and tied 0/100 times, with an average of 519.82 years spent in prison.
+Combination 70221 won 29/100 times and tied 0/100 times, with an average of 525.25 years spent in prison.
+Combination 47044 won 29/100 times and tied 0/100 times, with an average of 525.285 years spent in prison.
+Combination 77676 won 29/100 times and tied 0/100 times, with an average of 525.295 years spent in prison.
+Combination 14710 won 29/100 times and tied 0/100 times, with an average of 526.035 years spent in prison.
+Combination 80273 won 28/100 times and tied 1/100 times, with an average of 520.435 years spent in prison.
+Combination 68475 won 28/100 times and tied 1/100 times, with an average of 521.185 years spent in prison.
+Combination 38856 won 28/100 times and tied 0/100 times, with an average of 519.64 years spent in prison.
+Combination 86152 won 28/100 times and tied 0/100 times, with an average of 521.03 years spent in prison.
+Combination 87679 won 27/100 times and tied 1/100 times, with an average of 521.595 years spent in prison.
+Combination 27707 won 27/100 times and tied 1/100 times, with an average of 525.455 years spent in prison.
+Combination 98047 won 27/100 times and tied 0/100 times, with an average of 522.62 years spent in prison.
+Combination 20027 won 27/100 times and tied 0/100 times, with an average of 526.015 years spent in prison.
+Combination 58161 won 26/100 times and tied 0/100 times, with an average of 521.69 years spent in prison.
+Combination 07085 won 26/100 times and tied 0/100 times, with an average of 522.77 years spent in prison.
+Combination 25686 won 25/100 times and tied 1/100 times, with an average of 521.405 years spent in prison.
+Combination 20126 won 24/100 times and tied 0/100 times, with an average of 526.595 years spent in prison.
+Combination 31841 won 23/100 times and tied 1/100 times, with an average of 523.48 years spent in prison.
+Combination 23087 won 23/100 times and tied 0/100 times, with an average of 521.965 years spent in prison.
+Combination 64872 won 13/100 times and tied 0/100 times, with an average of 539.055 years spent in prison.
+Combination 71787 won 13/100 times and tied 0/100 times, with an average of 539.115 years spent in prison.
+Combination 86602 won 12/100 times and tied 0/100 times, with an average of 539.09 years spent in prison.
+Combination 08461 won 11/100 times and tied 1/100 times, with an average of 538.275 years spent in prison.
+Combination 72148 won 11/100 times and tied 0/100 times, with an average of 539.92 years spent in prison.
+Combination 78863 won 10/100 times and tied 1/100 times, with an average of 537.465 years spent in prison.
+Combination 48738 won 9/100 times and tied 0/100 times, with an average of 537.365 years spent in prison.
+Combination 82348 won 9/100 times and tied 0/100 times, with an average of 538.145 years spent in prison.
+Combination 84174 won 9/100 times and tied 0/100 times, with an average of 540.795 years spent in prison.
+Combination 78762 won 8/100 times and tied 0/100 times, with an average of 539.925 years spent in prison.
+Combination 16280 won 6/100 times and tied 0/100 times, with an average of 540.155 years spent in prison.
+Combination 44868 won 6/100 times and tied 0/100 times, with an average of 555.59 years spent in prison.
+Combination 78484 won 3/100 times and tied 0/100 times, with an average of 556.7 years spent in prison.
+Combination 28808 won 1/100 times and tied 0/100 times, with an average of 575.355 years spent in prison.
+
+
+Now follows a test of spies for the winning combination: 45559.
+
+Combination 45559 won 98/100 times and tied 0/100 times, with an average of 499.435 years spent in prison, with a spy possibility of 0%.
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 498.86 years spent in prison, with a spy possibility of 5%, when the leader didn't change choices.
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 492.245 years spent in prison, with a spy possibility of 5%, when the leader changed choices.
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 497.455 years spent in prison, with a spy possibility of 10%, when the leader didn't change choices.
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 485.94 years spent in prison, with a spy possibility of 10%, when the leader changed choices.
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 495.34 years spent in prison, with a spy possibility of 15%, when the leader didn't change choices.
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 477.715 years spent in prison, with a spy possibility of 15%, when the leader changed choices.
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 493.885 years spent in prison, with a spy possibility of 20%, when the leader didn't change choices.
+Combination 45559 won 100/100 times and tied 0/100 times, with an average of 470.39 years spent in prison, with a spy possibility of 20%, when the leader changed choices.
+
+The above results show that it is more beneficial for the leader to change his choice.
